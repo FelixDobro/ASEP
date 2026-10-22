@@ -1,0 +1,42 @@
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+*.key
+
+# SQLite Databases (All of them)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Large Archives & Raw Big Data Dumps
+*.zip
+*.tar
+*.tar.gz
+*.7z
+openfoodfacts*
+dataset.csv
+Food Ingredients and Recipe Dataset with Image Name Mapping.csv
+
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

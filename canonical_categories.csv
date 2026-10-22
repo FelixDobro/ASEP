@@ -1,0 +1,503 @@
+category_name,is_staple,recipe_count,mapped_variants_count,sample_variants
+salt,1,20144,5,"salt (19230), sea salt (735), salt and black pepper (65), fine salt (63), fine sea salt (51)"
+black pepper,1,16382,7,"black pepper (12369), pepper (3516), cracked black pepper (136), whole black peppercorn (111), black peppercorn (102)"
+sugar,1,15870,7,"sugar (15540), superfine sugar (76), turbinado sugar (74), vanilla sugar (70), simple syrup (52)"
+butter,1,15531,6,"butter (12009), unsalted butter (2764), salted butter (433), butter or margarine (203), ghee (79)"
+egg,0,15444,7,"egg (13310), yolk (786), white (738), egg yolk (271), egg white (226)"
+onion,0,13177,5,"onion (11904), yellow onion (564), white onion (356), sweet onion (324), pearl onion (29)"
+flour,1,12560,8,"flour (11464), bread flour (399), self rising flour (309), cake flour (229), gluten free baking flour (70)"
+garlic,0,11221,3,"garlic (11138), garlic paste (45), ginger garlic paste (38)"
+water,1,10836,6,"water (10010), boiling water (554), ice water (131), lukewarm water (83), ounces water (55)"
+olive oil,1,8922,2,"olive oil (8885), light olive oil (37)"
+vanilla extract,0,7446,2,"vanilla extract (7319), vanilla (127)"
+milk,0,7239,8,"milk (6229), whole milk (595), skim milk (169), 2 milk (123), 1 milk (48)"
+vegetable oil,1,7215,9,"vegetable oil (5299), canola oil (826), oil (601), grapeseed oil (114), avocado oil (110)"
+brown sugar,0,6730,5,"brown sugar (5629), light brown sugar (577), dark brown sugar (362), firmly brown sugar (125), firmly light brown sugar (37)"
+cinnamon,0,5385,3,"cinnamon (5273), cinnamon sugar (57), cinnamon stick (55)"
+baking powder,0,4683,1,baking powder (4683)
+bell pepper,0,4309,8,"bell pepper (1907), green bell pepper (951), red bell pepper (824), red pepper (341), yellow bell pepper (119)"
+baking soda,0,4076,1,baking soda (4076)
+tomato,0,4048,6,"tomato (3317), cherry tomato (309), whole tomato (148), roma tomato (131), grape tomato (109)"
+lemon juice,0,3738,4,"lemon juice (3516), squeezed lemon juice (181), ounce lemon juice (38), lemon juice concentrate (3)"
+heavy cream,0,3485,7,"heavy cream (1458), heavy whipping cream (1032), whipped topping (543), whipped cream (158), whipping cream (132)"
+chicken broth,0,3442,7,"chicken broth (2109), chicken stock (604), chicken bouillon (268), low sodium chicken broth (226), chicken bouillon granule (148)"
+garlic powder,0,3381,2,"garlic powder (3252), granulated garlic (129)"
+parsley,0,3291,5,"parsley (2831), flat leaf parsley (203), italian parsley (111), parsley flake (109), italian flat leaf parsley (37)"
+parmesan cheese,0,3161,7,"parmesan cheese (2679), parmigiano reggiano cheese (179), romano cheese (114), pecorino romano cheese (82), asiago cheese (57)"
+carrot,0,3098,2,"carrot (2934), baby carrot (164)"
+ginger,0,2921,4,"ginger (2113), ginger root (691), ginger paste (69), crystallized ginger (48)"
+potato,0,2910,12,"potato (1844), red potato (254), russet potato (240), yukon gold potato (137), hash brown potato (123)"
+cheddar cheese,0,2727,7,"cheddar cheese (2035), sharp cheddar cheese (489), mild cheddar cheese (62), white cheddar cheese (59), extra sharp cheddar cheese (49)"
+chicken breast,0,2679,5,"skinless (2143), chicken breast (320), chicken breast half (101), chicken tender (62), breast (53)"
+cream cheese,0,2673,5,"cream cheese (2490), neufchatel cheese (54), philadelphia cream cheese (45), reduced fat cream cheese (45), whipped cream cheese (39)"
+soy sauce,0,2662,6,"soy sauce (2190), low sodium soy sauce (145), reduced sodium soy sauce (134), light soy sauce (94), dark soy sauce (59)"
+sour cream,0,2554,4,"sour cream (2390), creme fraiche (67), light sour cream (55), reduced fat sour cream (42)"
+cumin,0,2550,2,"cumin (2337), cumin seed (213)"
+lemon,0,2536,3,"lemon (1646), lemon zest (845), lemon peel (45)"
+powdered sugar,0,2529,4,"confectioners sugar (1916), powdered sugar (440), confectioners sugar for dusting (130), confectioners sugar for decoration (43)"
+cayenne pepper,0,2455,1,cayenne pepper (2455)
+celery,0,2411,4,"celery (2343), celery leaf (46), celery stalk (14), celery rib (8)"
+cooking spray,0,2410,4,"spray (1840), cooking spray (432), oil cooking spray (121), olive oil cooking spray (17)"
+nutmeg,0,2342,1,nutmeg (2342)
+oregano,0,2284,3,"oregano (2166), mexican oregano (82), oregano leaf (36)"
+basil,0,2248,3,"basil (1881), basil leaf (327), thai basil (40)"
+paprika,0,2236,3,"paprika (1827), smoked paprika (354), sweet paprika (55)"
+cilantro,0,2212,2,"cilantro (2055), cilantro leaf (157)"
+mushroom,0,2095,10,"mushroom (1559), button mushroom (122), shiitake mushroom (104), portobello mushroom (82), cremini mushroom (73)"
+mayonnaise,0,2010,2,"mayonnaise (1938), light mayonnaise (72)"
+honey,0,1986,1,honey (1986)
+thyme,0,1916,2,"thyme (1718), thyme leaf (198)"
+walnut,0,1840,5,"walnut (1658), nut (86), coarsely walnut (42), walnut half (35), black walnut (19)"
+cornstarch,0,1836,2,"cornstarch (1834), arrowroot (2)"
+bacon,0,1766,6,"bacon (1505), thick cut bacon (76), bacon bit (67), crumbled bacon (51), real bacon bit (36)"
+chili powder,0,1742,5,"chili powder (1548), chipotle chile powder (69), ancho chile powder (56), chile powder (35), chili seasoning mix (34)"
+pasta,0,1742,29,"spaghetti (273), elbow macaroni (260), penne pasta (214), linguine pasta (107), rotini pasta (89)"
+green onion,0,1698,2,"green onion (1475), scallion (223)"
+worcestershire sauce,0,1647,1,worcestershire sauce (1647)
+breadcrumbs,0,1637,8,"bread crumb (833), panko bread crumb (342), italian seasoned bread crumb (183), seasoned bread crumb (129), fine bread crumb (46)"
+chocolate chips,0,1634,9,"semisweet chocolate chip (854), chocolate chip (287), semi sweet chocolate chip (116), milk chocolate chip (106), miniature semisweet chocolate chip (95)"
+red pepper flakes,0,1575,1,red pepper flake (1575)
+tomato sauce,0,1534,6,"tomato sauce (940), spaghetti sauce (181), marinara sauce (151), tomato puree (110), pizza sauce (101)"
+oat,0,1492,8,"rolled oat (752), quick cooking oat (390), oat (102), old fashioned oat (86), steel cut oat (50)"
+pecan,0,1460,3,"pecan (1296), pecan half (118), coarsely pecan (46)"
+white vinegar,0,1444,4,"white vinegar (698), distilled white vinegar (443), vinegar (299), distilled vinegar (4)"
+clove,0,1423,2,"clove (1344), whole clove (79)"
+beef,0,1404,2,"beef (1362), corned beef (42)"
+onion powder,0,1367,2,"onion powder (1310), onion flake (57)"
+bay leaf,0,1317,2,"leaf (1129), bay leaf (188)"
+corn,0,1303,6,"corn (494), whole kernel corn (384), corn kernel (214), cream style corn (109), sweet corn (62)"
+cocoa powder,0,1281,3,"unsweetened cocoa powder (996), cocoa powder (269), cocoa (16)"
+lime juice,0,1225,4,"lime juice (1073), squeezed lime juice (65), ounce lime juice (51), key lime juice (36)"
+mustard,0,1222,5,"mustard (718), yellow mustard (353), spicy brown mustard (73), honey mustard (41), brown mustard (37)"
+banana,0,1209,3,"banana (1015), mashed banana (154), plantain (40)"
+lime,0,1194,2,"lime (1059), lime zest (135)"
+mozzarella cheese,0,1176,2,"mozzarella cheese (1137), part skim mozzarella cheese (39)"
+spinach,0,1173,4,"spinach (824), baby spinach (152), baby spinach leaf (124), spinach leaf (73)"
+raisin,0,1159,2,"raisin (984), golden raisin (175)"
+white rice,0,1150,7,"white rice (411), rice (214), long grain white rice (189), long grain rice (102), jasmine rice (93)"
+apple,0,1128,6,"apple (790), smith apple (162), granny smith apple (125), delicious apple (35), red delicious apple (10)"
+shortening,0,1117,3,"shortening (900), vegetable shortening (143), butter flavored shortening (74)"
+hot sauce,0,1103,5,"pepper sauce (651), sriracha sauce (257), buffalo wing sauce (98), chili sauce (78), sriracha (19)"
+chili pepper,0,1070,7,"chile pepper (356), green chile pepper (227), red chile pepper (179), green chile (153), green chili (108)"
+zucchini,0,1055,1,zucchini (1055)
+strawberry,0,1054,2,"strawberry (1011), strawberry flavored (43)"
+sausage,0,1053,16,"italian sausage (215), pork sausage (195), pepperoni (101), kielbasa sausage (74), sausage (69)"
+orange juice,0,1052,4,"orange juice (847), orange juice concentrate (105), squeezed orange juice (66), ounces orange juice (34)"
+ketchup,0,1021,1,ketchup (1021)
+rosemary,0,1021,2,"rosemary (987), rosemary leaf (34)"
+bread,0,1019,18,"bread (232), bun (218), white bread (156), french bread (118), baguette (65)"
+red onion,0,1017,1,red onion (1017)
+almond,0,1005,3,"almond (686), slivered almond (270), whole almond (49)"
+yeast,0,998,5,"active yeast (818), instant yeast (63), sourdough starter (43), yeast (38), bread machine yeast (36)"
+apple cider vinegar,0,991,2,"apple cider vinegar (593), cider vinegar (398)"
+orange,0,974,4,"orange (471), orange zest (402), mandarin orange (87), clementine (14)"
+coconut,0,973,6,"flaked coconut (429), coconut (276), sweetened flaked coconut (114), unsweetened coconut (82), sweetened coconut (37)"
+dijon mustard,0,970,2,"dijon mustard (888), dijon style mustard (82)"
+sesame oil,0,957,2,"sesame oil (917), asian sesame oil (40)"
+white wine,0,937,1,white wine (937)
+buttermilk,0,917,1,buttermilk (917)
+margarine,0,912,2,"margarine (876), vegan margarine (36)"
+tomato paste,0,881,1,tomato paste (881)
+peanut butter,0,868,5,"peanut butter (545), creamy peanut butter (182), crunchy peanut butter (65), natural peanut butter (38), smooth peanut butter (38)"
+shrimp,0,866,3,"shrimp (728), shrimp and deveined (71), deveined shrimp (67)"
+cabbage,0,865,5,"cabbage (568), red cabbage (92), green cabbage (82), napa cabbage (63), coleslaw mix (60)"
+vegetable broth,0,860,4,"vegetable broth (655), vegetable stock (100), vegetable bouillon (62), low sodium vegetable broth (43)"
+olive,0,857,5,"black olive (451), kalamata olive (143), green olive (133), olive (93), pimento stuffed green olive (37)"
+chicken,0,853,2,"chicken (802), rotisserie chicken (51)"
+tortilla,0,846,3,"tortilla (721), flour tortilla (71), corn tortilla (54)"
+pineapple,0,839,3,"pineapple (758), pineapple in juice (41), pineapple tidbit (40)"
+beef broth,0,826,4,"beef broth (499), beef bouillon (154), beef stock (125), beef bouillon granule (48)"
+yogurt,0,812,5,"yogurt (397), greek yogurt (254), vanilla yogurt (84), nonfat yogurt (41), fat free greek yogurt (36)"
+blueberry,0,808,2,"blueberry (735), berry (73)"
+balsamic vinegar,0,794,2,"balsamic vinegar (743), white balsamic vinegar (51)"
+dill,0,785,2,"dill (401), dill weed (384)"
+canned tomatoes,0,744,7,"tomatoes green chile pepper (202), stewed tomato (189), fire tomato (112), tomatoes and green chile (76), italian style tomato (60)"
+ground beef,0,724,3,"lean beef (622), extra lean beef (68), meatball (34)"
+garlic salt,0,721,1,garlic salt (721)
+cranberry,0,720,2,"cranberry (631), sweetened cranberry (89)"
+whole wheat flour,0,712,3,"whole wheat flour (626), whole wheat pastry flour (47), white whole wheat flour (39)"
+italian seasoning,0,709,1,italian seasoning (709)
+cucumber,0,699,2,"cucumber (643), english cucumber (56)"
+squash,0,698,5,"squash (354), butternut squash (195), yellow squash (109), spaghetti squash (22), acorn squash (18)"
+monterey jack cheese,0,694,6,"monterey jack cheese (388), pepper jack cheese (100), pepperjack cheese (63), colby monterey jack cheese (59), colby jack cheese (56)"
+maple syrup,0,692,2,"maple syrup (644), real maple syrup (48)"
+shallot,0,683,1,shallot (683)
+broccoli,0,680,2,"broccoli (400), broccoli floret (280)"
+half and half,0,676,2,"half and half (500), half and half cream (176)"
+rice vinegar,0,659,3,"rice vinegar (456), rice wine vinegar (138), seasoned rice vinegar (65)"
+allspice,0,650,1,allspice (650)
+black bean,0,650,1,black bean (650)
+sesame seed,0,642,2,"sesame seed (592), black sesame seed (50)"
+pumpkin puree,0,640,3,"pumpkin puree (499), canned pumpkin (89), canned pumpkin puree (52)"
+coriander,0,633,2,"coriander (535), coriander seed (98)"
+red wine vinegar,0,629,1,red wine vinegar (629)
+turmeric,0,622,1,turmeric (622)
+jalapeno,0,617,3,"jalapeno pepper (537), jalapeno (42), pickled jalapeno pepper (38)"
+condensed milk,0,615,3,"sweetened condensed milk (572), eagle sweetened condensed milk (37), condensed milk (6)"
+almond extract,0,610,1,almond extract (610)
+feta cheese,0,606,3,"crumbled feta cheese (415), feta cheese (134), crumbled cotija cheese (57)"
+evaporated milk,0,584,1,evaporated milk (584)
+coconut milk,0,579,3,"coconut milk (494), unsweetened coconut milk (47), light coconut milk (38)"
+pea,0,570,3,"pea (344), green pea (175), peas and carrot (51)"
+ham,0,565,6,"ham (384), fully ham (52), deli ham (44), fully luncheon meat (42), smoked ham (33)"
+curry powder,0,563,1,curry powder (563)
+salsa,0,557,4,"salsa (435), picante sauce (42), chunky salsa (41), taco sauce (39)"
+avocado,0,554,2,"avocado (508), guacamole (46)"
+mint,0,538,4,"mint (332), mint leaf (201), spearmint (4), peppermint (1)"
+ice,0,537,1,ice (537)
+corn syrup,0,531,3,"light corn syrup (327), corn syrup (141), dark corn syrup (63)"
+taco seasoning,0,530,3,"taco seasoning mix (382), taco seasoning (121), fajita seasoning (27)"
+beef steak,0,526,11,"steak (160), tenderloin (119), flank steak (59), beef sirloin (40), round steak (36)"
+lettuce,0,524,4,"lettuce (217), romaine lettuce (152), iceberg lettuce (88), salad green (67)"
+cream of mushroom soup,0,521,2,"condensed cream of mushroom soup (434), cream of mushroom soup (87)"
+sage,0,514,3,"sage (403), rubbed sage (58), sage leaf (53)"
+seasoned salt,0,511,2,"seasoned salt (407), seasoning salt (104)"
+turkey,0,507,3,"turkey (413), lean turkey (56), turkey breast (38)"
+green bean,0,490,3,"green bean (424), cut green bean (63), string bean (3)"
+white pepper,0,486,1,white pepper (486)
+graham cracker,0,484,3,"graham cracker crumb (265), graham cracker crust (145), graham cracker (74)"
+applesauce,0,465,2,"applesauce (309), unsweetened applesauce (156)"
+swiss cheese,0,452,3,"swiss cheese (339), gruyere cheese (110), emmental cheese (3)"
+sweet potato,0,443,3,"sweet potato (362), mashed sweet potato (46), yam (35)"
+chive,0,442,1,chive (442)
+cauliflower,0,442,2,"cauliflower (354), cauliflower floret (88)"
+beef roast,0,438,7,"beef stew meat (179), beef chuck roast (90), beef chuck (63), chuck roast (55), beef brisket (38)"
+red wine,0,434,1,red wine (434)
+peach,0,427,2,"peach (387), nectarine (40)"
+kidney bean,0,425,3,"kidney bean (329), red kidney bean (54), dark red kidney bean (42)"
+cornmeal,0,424,4,"cornmeal (295), yellow cornmeal (86), polenta (31), white cornmeal (12)"
+ricotta cheese,0,412,3,"ricotta cheese (330), whole milk ricotta cheese (47), part skim ricotta cheese (35)"
+pinto bean,0,407,3,"pinto bean (215), refried bean (110), chili bean (82)"
+cream of chicken soup,0,399,2,"condensed cream of chicken soup (325), cream of chicken soup (74)"
+marshmallows,0,396,4,"miniature marshmallow (212), marshmallow (106), marshmallow creme (72), marshmallow fluff (6)"
+molasses,0,384,1,molasses (384)
+chocolate,0,377,5,"semisweet chocolate (165), unsweetened chocolate (145), milk chocolate (46), german sweet chocolate (18), baking chocolate (3)"
+pudding mix,0,374,3,"instant vanilla pudding mix (244), instant chocolate pudding mix (94), instant lemon pudding mix (36)"
+pork roast,0,371,6,"pork tenderloin (93), pork shoulder (79), pork loin (71), pork loin roast (71), pork shoulder roast (41)"
+pork chop,0,369,4,"pork chop (175), chop (149), pork loin chop (37), bone in pork chop (8)"
+chickpea,0,368,2,"garbanzo bean (198), chickpea (170)"
+coffee,0,366,6,"instant coffee granule (115), strong brewed coffee (74), brewed coffee (72), coffee (51), instant espresso powder (48)"
+bbq sauce,0,364,3,"barbeque sauce (238), barbecue sauce (110), bbq sauce (16)"
+pineapple juice,0,356,2,"pineapple juice (316), ounces pineapple juice (40)"
+pumpkin pie spice,0,349,1,pumpkin pie spice (349)
+cream of tartar,0,347,1,cream of tartar (347)
+white bean,0,344,4,"cannellini bean (124), great northern bean (110), white bean (56), navy bean (54)"
+coconut oil,0,342,1,coconut oil (342)
+white wine vinegar,0,340,3,"white wine vinegar (300), tarragon vinegar (21), champagne vinegar (19)"
+vodka,0,334,3,"vodka (175), ounces vodka (94), ounce vodka (65)"
+raspberry,0,332,1,raspberry (332)
+cajun seasoning,0,328,2,"cajun seasoning (225), creole seasoning (103)"
+salmon,0,326,4,"salmon fillet (136), salmon (130), smoked salmon (55), pink salmon (5)"
+asparagus,0,323,2,"asparagus (277), asparagus spear (46)"
+fish sauce,0,316,1,fish sauce (316)
+cardamom,0,310,1,cardamom (310)
+food coloring,0,299,3,"red food coloring (167), green food coloring (91), yellow food coloring (41)"
+cheese,0,297,3,"processed cheese food (117), american cheese (109), processed cheese (71)"
+cherry,0,295,2,"cherry (284), tart cherry (11)"
+salad dressing,0,294,5,"italian style salad dressing (121), creamy salad dressing (114), italian salad dressing (34), thousand island dressing (22), salad dressing (3)"
+cheese blend,0,290,3,"mexican cheese blend (188), italian cheese blend (54), cheddar monterey jack cheese blend (48)"
+ground mustard,0,285,1,mustard powder (285)
+rhubarb,0,282,1,rhubarb (282)
+pork,0,280,1,pork (280)
+white chocolate,0,268,2,"white chocolate chip (181), white chocolate (87)"
+rum,0,268,5,"rum (145), dark rum (83), spiced rum (24), light rum (15), coconut rum (1)"
+egg noodle,0,264,2,"egg noodle (214), wide egg noodle (50)"
+ranch dressing,0,262,2,"ranch dressing mix (155), ranch dressing (107)"
+flax seed,0,260,3,"flax seed (149), flaxseed meal (60), flax seed meal (51)"
+peanut,0,253,2,"peanut (211), salted peanut (42)"
+blue cheese,0,252,4,"crumbled blue cheese (146), crumbled gorgonzola cheese (49), blue cheese (40), gorgonzola cheese (17)"
+celery seed,0,251,1,celery seed (251)
+almond milk,0,248,2,"almond milk (182), unsweetened almond milk (66)"
+mango,0,242,1,mango (242)
+tofu,0,242,4,"firm tofu (94), extra firm tofu (89), tofu (34), silken tofu (25)"
+leek,0,240,1,leek (240)
+eggplant,0,240,1,eggplant (240)
+liquid smoke,0,238,2,"liquid smoke flavoring (201), liquid smoke (37)"
+beer,0,238,2,"beer (156), bottle beer (82)"
+lentil,0,238,3,"lentil (122), red lentil (76), brown lentil (40)"
+caper,0,237,1,caper (237)
+quinoa,0,235,1,quinoa (235)
+almond flour,0,232,2,"almond flour (179), almond meal (53)"
+onion soup mix,0,231,1,onion soup mix (231)
+lemon pepper,0,229,2,"lemon pepper (128), lemon pepper seasoning (101)"
+pine nut,0,228,1,pine nut (228)
+crab,0,228,4,"crabmeat (119), imitation crabmeat (65), lump crabmeat (36), crab (8)"
+cottage cheese,0,227,2,"cottage cheese (190), curd cottage cheese (37)"
+marjoram,0,221,1,marjoram (221)
+date,0,218,2,"date (209), medjool date (9)"
+white fish,0,217,9,"cod fillet (58), tilapia fillet (48), cod (31), tilapia (30), halibut (20)"
+peanut oil,0,216,1,peanut oil (216)
+artichoke,0,211,3,"artichoke heart (119), marinated artichoke heart (80), artichoke (12)"
+tarragon,0,210,1,tarragon (210)
+poppy seed,0,209,1,poppy seed (209)
+sherry,0,209,1,sherry (209)
+kale,0,207,2,"kale (194), lacinato kale (13)"
+horseradish,0,205,1,horseradish (205)
+crackers,0,205,4,"buttery round cracker (91), saltine cracker (78), round cracker (35), matzo (1)"
+chicken thigh,0,204,3,"chicken thigh (127), thigh (69), bone in chicken thigh (8)"
+poultry seasoning,0,197,1,poultry seasoning (197)
+bourbon,0,197,3,"bourbon (74), bourbon whiskey (62), whiskey (61)"
+blackberry,0,195,1,blackberry (195)
+garam masala,0,194,1,garam masala (194)
+noodle,0,190,6,"ramen noodle (60), noodle (58), chow mein noodle (31), udon noodle (23), soba noodle (17)"
+grape,0,188,6,"seedless red grape (50), seedless grape (39), seedless green grape (35), red grape (23), green grape (22)"
+dark chocolate,0,187,2,"dark chocolate (108), bittersweet chocolate (79)"
+old bay seasoning,0,184,2,"seafood seasoning (182), old bay seasoning (2)"
+tomato juice,0,181,2,"tomato juice (91), tomatoes juice (90)"
+chipotle pepper,0,180,3,"chipotle pepper (86), chipotle peppers in adobo sauce (48), peppers in adobo sauce (46)"
+puff pastry,0,173,1,puff pastry (173)
+celery salt,0,173,1,celery salt (173)
+pesto,0,172,2,"pesto (113), basil pesto (59)"
+orange liqueur,0,171,5,"triple sec (48), orange liqueur (43), brandy based orange liqueur (38), ounce triple sec (38), cointreau (4)"
+oyster sauce,0,165,1,oyster sauce (165)
+cashew,0,165,2,"cashew (152), salted cashew (13)"
+lemon extract,0,163,1,lemon extract (163)
+pear,0,162,1,pear (162)
+ice cream,0,161,1,vanilla ice cream (161)
+brown rice,0,158,1,brown rice (158)
+provolone cheese,0,153,1,provolone cheese (153)
+fennel seed,0,153,1,fennel seed (153)
+chicken wing,0,152,2,"chicken wing (108), wing (44)"
+brandy,0,151,2,"brandy (138), cognac (13)"
+apple cider,0,150,1,apple cider (150)
+water chestnut,0,148,1,water chestnut (148)
+beet,0,148,2,"beet (142), golden beet (6)"
+soy milk,0,147,1,soy milk (147)
+gelatin,0,145,2,"unflavored gelatin (143), gelatin (2)"
+caraway seed,0,141,1,caraway seed (141)
+chia seed,0,140,1,chia seed (140)
+hoisin sauce,0,140,1,hoisin sauce (140)
+tahini,0,139,1,tahini (139)
+crescent roll,0,139,2,"crescent roll (89), crescent roll dough (50)"
+brussels sprout,0,138,1,brussels sprout (138)
+apricot jam,0,138,2,"apricot preserve (92), apricot jam (46)"
+scallop,0,137,3,"scallop (52), sea scallop (44), bay scallop (41)"
+apple juice,0,136,1,apple juice (136)
+sprout,0,136,2,"bean sprout (129), alfalfa sprout (7)"
+sake,0,135,2,"sake (78), rice wine (57)"
+goat cheese,0,135,2,"goat cheese (75), crumbled goat cheese (60)"
+apricot,0,134,1,apricot (134)
+pickle relish,0,133,2,"sweet pickle relish (99), dill pickle relish (34)"
+watermelon,0,131,1,watermelon (131)
+bean,0,130,1,bean (130)
+baking mix,0,130,2,"baking mix (91), biscuit baking mix (39)"
+tequila,0,129,2,"tequila (88), ounces tequila (41)"
+cake mix,0,129,3,"chocolate cake mix (48), devils food cake mix (44), lemon cake mix (37)"
+tuna,0,128,2,"tuna (127), canned tuna (1)"
+tortilla chips,0,127,1,tortilla chip (127)
+sauerkraut,0,127,1,sauerkraut (127)
+pickle,0,127,2,"dill pickle (87), pickle (40)"
+milk powder,0,127,2,"milk powder (80), nonfat milk powder (47)"
+tomatillo,0,125,1,tomatillo (125)
+tomato soup,0,125,1,condensed tomato soup (125)
+baking chips,0,124,2,"butterscotch chip (82), peanut butter chip (42)"
+teriyaki sauce,0,120,1,teriyaki sauce (120)
+mustard seed,0,120,1,mustard seed (120)
+pizza dough,0,120,2,"pizza dough (62), pizza crust (58)"
+chili garlic sauce,0,117,2,"chile garlic sauce (83), chili garlic sauce (34)"
+pork rib,0,117,4,"rib (46), pork sparerib (44), pork rib (15), baby back rib (12)"
+sunflower seed,0,116,1,sunflower seed (116)
+curry paste,0,116,4,"red curry paste (75), curry paste (21), green curry paste (18), yellow curry paste (2)"
+mirin,0,115,1,mirin (115)
+radish,0,115,2,"radish (107), daikon radish (8)"
+wheat germ,0,113,1,wheat germ (113)
+cherry pie filling,0,111,1,cherry pie filling (111)
+bacon fat,0,111,2,"bacon dripping (70), bacon grease (41)"
+maraschino cherry,0,110,1,maraschino cherry (110)
+mascarpone cheese,0,108,1,mascarpone cheese (108)
+lamb,0,108,3,"lamb (83), leg of lamb (18), lamb chop (7)"
+wonton wrapper,0,106,2,"wrapper (67), wonton wrapper (39)"
+sun dried tomato,0,104,1,sun dried tomato (104)
+tapioca starch,0,99,3,"tapioca flour (48), tapioca starch (38), tapioca (13)"
+currant,0,98,1,currant (98)
+biscuit,0,97,2,"biscuit dough (75), biscuit (22)"
+herbes de provence,0,96,1,herbes de provence (96)
+pumpkin,0,96,1,pumpkin (96)
+sparkling water,0,96,3,"club soda (66), sparkling water (23), seltzer water (7)"
+saffron,0,94,2,"saffron (54), saffron thread (40)"
+black eyed peas,0,93,1,black eyed pea (93)
+cookies,0,92,4,"chocolate sandwich cookie (48), cookie (39), chocolate wafer (3), oreo cookie (2)"
+agave nectar,0,91,1,agave nectar (91)
+arborio rice,0,91,1,arborio rice (91)
+parsnip,0,91,1,parsnip (91)
+prosciutto,0,90,1,prosciutto (90)
+lard,0,88,1,lard (88)
+cream of celery soup,0,88,1,condensed cream of celery soup (88)
+fig,0,87,1,fig (87)
+couscous,0,87,3,"couscous (67), pearl couscous (14), israeli couscous (6)"
+nutella,0,85,1,chocolate hazelnut spread (85)
+lasagna sheet,0,84,2,"lasagna noodle (83), lasagna sheet (1)"
+nutritional yeast,0,83,1,nutritional yeast (83)
+rice flour,0,83,1,rice flour (83)
+onion salt,0,83,1,onion salt (83)
+mint extract,0,81,1,peppermint extract (81)
+coconut extract,0,81,1,coconut extract (81)
+pumpkin seed,0,81,2,"pumpkin seed (65), pepita (16)"
+barley,0,81,2,"barley (42), pearl barley (39)"
+chocolate syrup,0,80,1,chocolate syrup (80)
+five spice powder,0,80,1,chinese five spice powder (80)
+steak sauce,0,80,1,steak sauce (80)
+arugula,0,78,1,arugula (78)
+okra,0,78,1,okra (78)
+xanthan gum,0,78,1,xanthan gum (78)
+coffee liqueur,0,77,1,coffee flavored liqueur (77)
+cornflakes,0,77,1,cornflakes cereal (77)
+cornbread mix,0,77,2,"corn muffin mix (42), corn bread mix (35)"
+marsala wine,0,76,1,marsala wine (76)
+pistachio,0,75,2,"pistachio nut (48), pistachio (27)"
+raspberry jam,0,75,2,"raspberry jam (41), seedless raspberry jam (34)"
+hazelnut,0,74,1,hazelnut (74)
+bok choy,0,73,1,bok choy (73)
+turnip,0,72,1,turnip (72)
+lemonade concentrate,0,72,1,lemonade concentrate (72)
+crispy onion,0,71,1,french fried onion (71)
+hot dog,0,71,2,"dog (65), frankfurter (6)"
+lemongrass,0,71,2,"lemon grass (36), lemongrass (35)"
+enchilada sauce,0,69,1,enchilada sauce (69)
+rice cereal,0,68,1,crispy rice cereal (68)
+orange marmalade,0,68,1,orange marmalade (68)
+potato starch,0,67,1,potato starch (67)
+gin,0,66,2,"ounces gin (37), gin (29)"
+fennel,0,65,2,"fennel (35), fennel bulb (30)"
+ginger ale,0,63,1,ginger ale (63)
+clam,0,63,1,clam (63)
+adobo seasoning,0,63,1,adobo seasoning (63)
+greek seasoning,0,62,1,greek seasoning (62)
+plum,0,62,1,plum (62)
+snow pea,0,61,1,snow pea (61)
+chili paste,0,61,1,chile paste (61)
+amaretto liqueur,0,60,2,"amaretto liqueur (58), amaretto (2)"
+snap pea,0,60,2,"sugar snap pea (52), snap pea (8)"
+irish cream,0,59,1,irish cream liqueur (59)
+caramel sauce,0,59,2,"caramel ice cream topping (38), caramel sauce (21)"
+kiwi,0,58,1,kiwi (58)
+venison,0,58,1,venison (58)
+msg,0,57,1,monosodium glutamate (57)
+coconut flour,0,57,1,coconut flour (57)
+macadamia nut,0,56,1,macadamia nut (56)
+collard green,0,56,1,collard green (56)
+alfredo sauce,0,56,1,alfredo sauce (56)
+mace,0,56,1,mace (56)
+rice noodle,0,56,2,"rice noodle (48), rice vermicelli (8)"
+pomegranate,0,56,2,"pomegranate seed (39), pomegranate (17)"
+eggnog,0,55,1,eggnog (55)
+corn flour,0,55,2,"masa harina (38), corn flour (17)"
+brie cheese,0,54,1,brie cheese (54)
+wild rice,0,54,1,wild rice (54)
+anise seed,0,54,1,anise seed (54)
+gochujang,0,53,1,gochujang (53)
+steak seasoning,0,53,1,steak seasoning (53)
+orange extract,0,53,1,orange extract (53)
+poblano pepper,0,52,1,poblano pepper (52)
+phyllo dough,0,52,1,phyllo dough (52)
+sweet and sour sauce,0,52,2,"sweet chili sauce (42), sweet and sour sauce (10)"
+candy,0,52,3,"candy cane (23), peppermint candy (16), candy corn (13)"
+pickling spice,0,51,1,pickling spice (51)
+fruit,0,50,1,fruit (50)
+chicken leg,0,50,2,"drumstick (37), chicken leg (13)"
+lima bean,0,49,1,lima bean (49)
+beef rib,0,49,1,beef short rib (49)
+strawberry jam,0,49,1,strawberry jam (49)
+prune,0,48,1,prune (48)
+vanilla wafer,0,48,1,vanilla wafer (48)
+popcorn,0,48,2,"popped popcorn (47), popcorn (1)"
+apple pie filling,0,47,1,apple pie filling (47)
+pectin,0,47,1,powdered fruit pectin (47)
+rose water,0,46,1,rose water (46)
+grenadine,0,45,1,grenadine syrup (45)
+swiss chard,0,45,1,swiss chard (45)
+almond butter,0,45,1,almond butter (45)
+cranberry juice,0,45,1,cranberry juice (45)
+coconut cream,0,44,1,cream of coconut (44)
+miso paste,0,44,1,miso paste (44)
+sparkling wine,0,44,2,"champagne (35), prosecco (9)"
+fontina cheese,0,43,1,fontina cheese (43)
+cranberry sauce,0,43,1,whole berry cranberry sauce (43)
+savory,0,43,1,savory (43)
+clam juice,0,43,1,clam juice (43)
+limeade concentrate,0,43,1,limeade concentrate (43)
+seaweed,0,43,1,nori (43)
+jicama,0,42,1,jicama (42)
+vanilla bean,0,42,2,"vanilla bean paste (31), vanilla bean (11)"
+pretzels,0,41,1,pretzel (41)
+melon,0,41,2,"cantaloupe (35), honeydew melon (6)"
+salami,0,40,1,salami (40)
+ghee,0,40,1,clarified butter (40)
+mussel,0,40,1,mussel (40)
+pie crust,0,40,1,9 inch pie crust (40)
+sherry vinegar,0,39,1,sherry vinegar (39)
+frosting,0,39,1,vanilla frosting (39)
+edamame,0,39,2,"shelled edamame (35), edamame (4)"
+lemon lime soda,0,38,1,lemon lime soda (38)
+chili oil,0,38,1,chili oil (38)
+sazon seasoning,0,38,1,sazon seasoning (38)
+stevia,0,38,1,stevia powder (38)
+maple extract,0,38,1,maple flavored extract (38)
+rutabaga,0,37,1,rutabaga (37)
+pomegranate juice,0,37,1,pomegranate juice (37)
+bagel seasoning,0,37,1,everything bagel seasoning (37)
+gouda cheese,0,37,1,gouda cheese (37)
+oat flour,0,37,1,oat flour (37)
+chocolate candy,0,36,1,candy coated milk chocolate (36)
+brownie mix,0,36,1,brownie mix (36)
+buckwheat flour,0,36,1,buckwheat flour (36)
+curry leaf,0,35,1,curry leaf (35)
+lobster,0,35,2,"lobster meat (29), lobster (6)"
+marzipan,0,34,1,almond paste (34)
+granola,0,34,1,granola (34)
+browning sauce,0,34,1,browning sauce (34)
+bamboo shoot,0,33,1,bamboo shoot (33)
+protein powder,0,33,1,vanilla protein powder (33)
+grapefruit,0,33,1,grapefruit (33)
+anchovy,0,31,2,"anchovy paste (25), anchovy (6)"
+apple pie spice,0,30,1,apple pie spice (30)
+split pea,0,30,1,split pea (30)
+turkey bacon,0,29,1,turkey bacon (29)
+lemonade,0,28,1,lemonade (28)
+wheat bran,0,27,1,wheat bran (27)
+port wine,0,26,1,port wine (26)
+papaya,0,25,1,papaya (25)
+ladyfingers,0,23,1,ladyfinger (23)
+farro,0,23,1,farro (23)
+cheese soup,0,22,1,condensed cheddar cheese soup (22)
+pancake mix,0,20,1,pancake mix (20)
+walnut oil,0,20,1,walnut oil (20)
+watercress,0,20,1,watercress (20)
+cocktail sauce,0,20,1,cocktail sauce (20)
+chicken drumstick,0,20,1,chicken drumstick (20)
+tempeh,0,18,1,tempeh (18)
+star anise,0,18,1,star anise (18)
+turkey sausage,0,18,1,turkey sausage (18)
+ginger beer,0,17,1,ginger beer (17)
+radicchio,0,17,1,radicchio (17)
+bagel,0,17,1,bagel (17)
+havarti cheese,0,16,1,havarti cheese (16)
+hummus,0,15,1,hummus (15)
+serrano pepper,0,15,1,serrano pepper (15)
+vermouth,0,14,1,sweet vermouth (14)
+millet,0,14,1,millet (14)
+blue cheese dressing,0,14,1,blue cheese dressing (14)
+trout,0,13,1,trout (13)
+gelatin mix,0,13,1,strawberry flavored gelatin (13)
+sumac,0,12,1,sumac (12)
+bulgur,0,12,1,bulgur (12)
+habanero pepper,0,12,1,habanero pepper (12)
+english muffin,0,12,1,english muffin (12)
+root beer,0,11,1,root beer (11)
+grape juice,0,11,1,grape juice (11)
+caesar dressing,0,10,1,caesar salad dressing (10)
+hearts of palm,0,8,1,hearts of palm (8)
+fenugreek,0,8,1,fenugreek (8)
+tea,0,8,3,"black tea (4), green tea (3), iced tea (1)"
+tonic water,0,7,1,tonic water (7)
+tapioca,0,6,1,tapioca pearl (6)
+chocolate liqueur,0,6,1,creme de cacao (6)
+seitan,0,5,1,seitan (5)
+tartar sauce,0,5,1,tartar sauce (5)
+green tea,0,4,1,matcha powder (4)
+spring roll wrapper,0,2,1,rice paper (2)
+endive,0,2,1,endive (2)
+cola,0,1,1,cola (1)
+guava,0,1,1,guava (1)
+campari,0,1,1,campari (1)
+cream soda,0,1,1,cream soda (1)
