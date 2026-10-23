@@ -25,24 +25,25 @@ python prototype_optimal.py 00032056 0008583830472 0021130980826
 ## 🧠 Architecture & Methodology
 
 ```
-[Grocery Barcode]
-       │
-       ▼
-1. LLM Normalizer (Gemini 3.5 Flash-Lite)
-   • Maps noisy product metadata into exactly ONE of 502 canonical cooking categories.
-   • Strictly rejects snacks, confectionery (e.g., Mon Chéri), and ready meals.
-       │
-       ▼  (e.g., "pasta", "tomato paste", "garlic")
-2. Canonical User Inventory
-       │
-       ▼
-3. Deterministic Recipe Matcher (dataset.csv)
-   • 100% Set-Algebra lookup via precomputed SQLite table (`raw_ingredient_mappings`).
+[Grocery Barcode (Open Food Facts)]              [50,513 Recipes (dataset.csv)]
+       │                                                        │
+       ▼                                                        ▼
+1. LLM Normalizer (Gemini Flash-Lite)            Precomputed Translation (SQLite)
+   Maps noisy metadata -> Category               raw_ingredient_mappings (17k strings -> 502)
+   (e.g., 'Barilla Penne' -> 'pasta')            (e.g., 'elbow macaroni' -> 'pasta', 'eggs' -> 'egg')
+       │                                                        │
+       ▼                                                        ▼
+2. Canonical User Inventory                      Canonical Recipe Ingredients
+   {'pasta', 'egg', 'butter'}                    {'pasta', 'egg', 'butter'}
+       │                                                        │
+       └────────────────────────┬───────────────────────────────┘
+                                ▼
+3. Deterministic Matcher (Zero LLM Tokens, pure Set-Algebra)
    • 🟢 Cookable Now: 100% ingredients in stock.
    • 🟡 Almost Cookable: Missing 1–2 ingredients.
-       │
-       ▼
-4. Single-Batch Chef Evaluation (Gemini 3.5 Flash-Lite)
+                                │
+                                ▼
+4. Single-Batch Chef Evaluation (Gemini Flash-Lite)
    • Evaluates all near-matches in 1 single call (substitutions & indispensability).
 ```
 
@@ -58,6 +59,7 @@ python prototype_optimal.py 00032056 0008583830472 0021130980826
 | File | Description |
 | :--- | :--- |
 | **[`prototype_optimal.py`](prototype_optimal.py)** | Main production prototype (barcode scan $\to$ canonical match $\to$ recipe evaluation). |
+| **[`DOCUMENTATION.md`](DOCUMENTATION.md)** | Full end-to-end architecture & methodology guide (pipeline phases, taxonomy build, token economics). |
 | **[`ingredients_canonical.db`](ingredients_canonical.db)** | SQLite database containing the 502 categories and 17k raw ingredient mappings. *(Ignored)* |
 | **[`build_canonical_database.py`](build_canonical_database.py)** | Build script generating the canonical database. |
 | **`openfoodfacts.db`** | Local Open Food Facts dump (1.23M products). *(Ignored)* |
